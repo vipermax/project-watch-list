@@ -1,5 +1,3 @@
-# project-watch-list
-
 ## Data Visutalization
 
 - Apache Superset:
