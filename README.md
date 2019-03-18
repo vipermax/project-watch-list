@@ -16,3 +16,11 @@ https://github.com/codelibs/fess
 - FESS-docker:
 https://github.com/codelibs/docker-fess
 
+## Mapping
+
+- Leaflet:
+https://leafletjs.com/
+- deck.gl:
+https://github.com/uber/deck.gl
+- kepler.gl:
+https://github.com/uber/kepler.gl
